@@ -1,0 +1,11 @@
+# 要开始 Dependabot 版本更新，您需要指定哪个
+# 要更新的海运生态系统以及海运清单的位置。
+# 请参阅文档的所有配置选项：
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+版本：2
+更新：
+  - package-ecosystem  : ""    # 请参阅文档了解可能的值# 请参阅文档了解可能的值
+    目录: "/"    目录: "/"    # 包清单的位置
+    浙江：
+      间隔：“每周”
